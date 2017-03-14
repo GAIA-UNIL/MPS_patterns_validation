@@ -1,0 +1,14 @@
+ Number of samples located out of the training image grid:
+ 0
+ Number of migrated samples:
+ 1091
+ Number of repeated samples (not migrated and lost):
+ 0
+ Valid conditioning events:
+ 5039
+ Invalid conditioning events:
+ 4961
+ Relative compatibility with training images (direct sampling):
+ 0.6360856 0.34556574 0.018348623
+ Occurrences of conditioning events in each training image:
+ 208. 113. 6.
